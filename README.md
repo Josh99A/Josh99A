@@ -1,5 +1,5 @@
 Am a software engineer familiar with the folling languages, frameworks and tools.
-Languages: Python, Javascript
-Frameworks: Django, React, Vite
-Tools: Docker, Github
-Others: Html, Css
+LANGUAGES: Python, Javascript
+FRAMEWORKS: Django, React, Vite
+TOOLS: Docker, Github
+OTHERS: Html, Css
